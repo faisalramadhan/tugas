@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_department" value="name:kode;datatype:int,name:departemen;datatype:string" />
+	<infoitem key="UD_pegawai" value="name:id;datatype:int,name:name;datatype:string,name:dateofbirth;datatype:date,name:gender;datatype:string,name:departemen;datatype:string,name:email;datatype:string,name:addres;datatype:string,name:photo;datatype:string" />
+	<infoitem key="UD_admin" value="name:yourname;datatype:string" />
+</info>
